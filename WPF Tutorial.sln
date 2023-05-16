@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Tutorial", "WPF Tutorial\WPF Tutorial.csproj", "{8F24B468-8A10-4E02-9BD8-04A20666C8D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSlider", "WPF Tutorial\ColorSlider.csproj", "{8F24B468-8A10-4E02-9BD8-04A20666C8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfColorsPreview", "WpfColorsPreview\WpfColorsPreview.csproj", "{1CFB4705-E564-4666-AAA0-792ECB85CD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf3DCube", "Wpf3DCube\Wpf3DCube.csproj", "{A79D2CE6-9DA2-4AD3-83D2-0D0C82775075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8F24B468-8A10-4E02-9BD8-04A20666C8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F24B468-8A10-4E02-9BD8-04A20666C8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F24B468-8A10-4E02-9BD8-04A20666C8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFB4705-E564-4666-AAA0-792ECB85CD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFB4705-E564-4666-AAA0-792ECB85CD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFB4705-E564-4666-AAA0-792ECB85CD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB4705-E564-4666-AAA0-792ECB85CD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79D2CE6-9DA2-4AD3-83D2-0D0C82775075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79D2CE6-9DA2-4AD3-83D2-0D0C82775075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79D2CE6-9DA2-4AD3-83D2-0D0C82775075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79D2CE6-9DA2-4AD3-83D2-0D0C82775075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
